@@ -39,9 +39,11 @@ class Main {
             dfs(index+1, count);
             return;
         }
+        boolean flag = false;
         for(Egg egg : eggs) {
             if(cur.equals(egg)) continue;
             if(egg.d <= 0) continue;
+            flag = true;
             int tempC = cur.d;
             int tempE = egg.d;
             int tempCount = count;
@@ -57,6 +59,6 @@ class Main {
             cur.d = tempC;
             egg.d = tempE;
         }
-        res = Math.max(res, count);
+        if(!flag) res = Math.max(res, count);
     }
 }
