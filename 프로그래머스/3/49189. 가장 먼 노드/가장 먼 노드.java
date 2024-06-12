@@ -29,7 +29,6 @@ class Solution {
         }
         int count = 0;
         for(int i = 1; i <= n; i++) {
-            System.out.print(dist[i] + " ");
             if(dist[i] == max) count++;
         }
         return count;
