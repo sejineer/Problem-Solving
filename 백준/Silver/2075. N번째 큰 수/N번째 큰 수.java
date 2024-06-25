@@ -18,14 +18,8 @@ public class Main {
         }
 
         Queue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
-        // for(int j = 0; j < n; j++) {
-        //     for(int i = n - 1; i >= 0; i--) {
-        //         pq.add(board[i][j]);
-        //     }
-        // }
-
-        for(int i = 0; i < n; i++) {
-            for(int j = 0; j < n; j++) {
+        for(int j = 0; j < n; j++) {
+            for(int i = n - 1; i >= 0; i--) {
                 pq.add(board[i][j]);
             }
         }
