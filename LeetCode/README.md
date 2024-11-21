@@ -5,12 +5,12 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 # Array
 |  |
 | ------- |
-| [0217-contains-duplicate](https://github.com/sejineer/Problem-Solving/tree/master/0217-contains-duplicate) |
+| [0128-longest-consecutive-sequence](https://github.com/sejineer/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 # Hash Table
 |  |
 | ------- |
-| [0217-contains-duplicate](https://github.com/sejineer/Problem-Solving/tree/master/0217-contains-duplicate) |
-# Sorting
+| [0128-longest-consecutive-sequence](https://github.com/sejineer/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
+# Union Find
 |  |
 | ------- |
-| [0217-contains-duplicate](https://github.com/sejineer/Problem-Solving/tree/master/0217-contains-duplicate) |
+| [0128-longest-consecutive-sequence](https://github.com/sejineer/Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
