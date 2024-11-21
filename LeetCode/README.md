@@ -5,12 +5,12 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 # Array
 |  |
 | ------- |
-| [1690-maximum-length-of-subarray-with-positive-product](https://github.com/sejineer/Problem-Solving/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
-# Dynamic Programming
+| [0217-contains-duplicate](https://github.com/sejineer/Problem-Solving/tree/master/0217-contains-duplicate) |
+# Hash Table
 |  |
 | ------- |
-| [1690-maximum-length-of-subarray-with-positive-product](https://github.com/sejineer/Problem-Solving/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
-# Greedy
+| [0217-contains-duplicate](https://github.com/sejineer/Problem-Solving/tree/master/0217-contains-duplicate) |
+# Sorting
 |  |
 | ------- |
-| [1690-maximum-length-of-subarray-with-positive-product](https://github.com/sejineer/Problem-Solving/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
+| [0217-contains-duplicate](https://github.com/sejineer/Problem-Solving/tree/master/0217-contains-duplicate) |
