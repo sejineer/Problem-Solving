@@ -2,19 +2,11 @@
 This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
 
 
-# Array
+# Divide and Conquer
 |  |
 | ------- |
-| [0079-word-search](https://github.com/sejineer/Problem-Solving/tree/master/0079-word-search) |
-# String
+| [0191-number-of-1-bits](https://github.com/sejineer/Problem-Solving/tree/master/0191-number-of-1-bits) |
+# Bit Manipulation
 |  |
 | ------- |
-| [0079-word-search](https://github.com/sejineer/Problem-Solving/tree/master/0079-word-search) |
-# Backtracking
-|  |
-| ------- |
-| [0079-word-search](https://github.com/sejineer/Problem-Solving/tree/master/0079-word-search) |
-# Matrix
-|  |
-| ------- |
-| [0079-word-search](https://github.com/sejineer/Problem-Solving/tree/master/0079-word-search) |
+| [0191-number-of-1-bits](https://github.com/sejineer/Problem-Solving/tree/master/0191-number-of-1-bits) |
