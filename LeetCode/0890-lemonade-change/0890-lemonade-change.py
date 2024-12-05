@@ -22,5 +22,4 @@ class Solution:
                     if cost_5 < 3:
                         return False
                     cost_5 -= 3
-            print(f"{cost_5} {cost_10} {cost_20}")
         return True
