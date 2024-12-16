@@ -5,8 +5,8 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 # String
 |  |
 | ------- |
-| [0812-rotate-string](https://github.com/sejineer/Problem-Solving/tree/master/0812-rotate-string) |
-# String Matching
+| [0091-decode-ways](https://github.com/sejineer/Problem-Solving/tree/master/0091-decode-ways) |
+# Dynamic Programming
 |  |
 | ------- |
-| [0812-rotate-string](https://github.com/sejineer/Problem-Solving/tree/master/0812-rotate-string) |
+| [0091-decode-ways](https://github.com/sejineer/Problem-Solving/tree/master/0091-decode-ways) |
