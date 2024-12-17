@@ -2,11 +2,15 @@
 This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
 
 
-# String
+# Math
 |  |
 | ------- |
-| [0091-decode-ways](https://github.com/sejineer/Problem-Solving/tree/master/0091-decode-ways) |
+| [0070-climbing-stairs](https://github.com/sejineer/Problem-Solving/tree/master/0070-climbing-stairs) |
 # Dynamic Programming
 |  |
 | ------- |
-| [0091-decode-ways](https://github.com/sejineer/Problem-Solving/tree/master/0091-decode-ways) |
+| [0070-climbing-stairs](https://github.com/sejineer/Problem-Solving/tree/master/0070-climbing-stairs) |
+# Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sejineer/Problem-Solving/tree/master/0070-climbing-stairs) |
