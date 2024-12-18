@@ -5,8 +5,8 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 # Array
 |  |
 | ------- |
-| [0238-product-of-array-except-self](https://github.com/sejineer/Problem-Solving/tree/master/0238-product-of-array-except-self) |
-# Prefix Sum
+| [0039-combination-sum](https://github.com/sejineer/Problem-Solving/tree/master/0039-combination-sum) |
+# Backtracking
 |  |
 | ------- |
-| [0238-product-of-array-except-self](https://github.com/sejineer/Problem-Solving/tree/master/0238-product-of-array-except-self) |
+| [0039-combination-sum](https://github.com/sejineer/Problem-Solving/tree/master/0039-combination-sum) |
