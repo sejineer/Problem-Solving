@@ -2,15 +2,19 @@
 This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
 
 
-# Two Pointers
+# Array
 |  |
 | ------- |
-| [0647-palindromic-substrings](https://github.com/sejineer/Problem-Solving/tree/master/0647-palindromic-substrings) |
+| [0049-group-anagrams](https://github.com/sejineer/Problem-Solving/tree/master/0049-group-anagrams) |
+# Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/sejineer/Problem-Solving/tree/master/0049-group-anagrams) |
 # String
 |  |
 | ------- |
-| [0647-palindromic-substrings](https://github.com/sejineer/Problem-Solving/tree/master/0647-palindromic-substrings) |
-# Dynamic Programming
+| [0049-group-anagrams](https://github.com/sejineer/Problem-Solving/tree/master/0049-group-anagrams) |
+# Sorting
 |  |
 | ------- |
-| [0647-palindromic-substrings](https://github.com/sejineer/Problem-Solving/tree/master/0647-palindromic-substrings) |
+| [0049-group-anagrams](https://github.com/sejineer/Problem-Solving/tree/master/0049-group-anagrams) |
