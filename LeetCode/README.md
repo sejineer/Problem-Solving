@@ -5,16 +5,12 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 # Array
 |  |
 | ------- |
-| [0049-group-anagrams](https://github.com/sejineer/Problem-Solving/tree/master/0049-group-anagrams) |
-# Hash Table
+| [0015-3sum](https://github.com/sejineer/Problem-Solving/tree/master/0015-3sum) |
+# Two Pointers
 |  |
 | ------- |
-| [0049-group-anagrams](https://github.com/sejineer/Problem-Solving/tree/master/0049-group-anagrams) |
-# String
-|  |
-| ------- |
-| [0049-group-anagrams](https://github.com/sejineer/Problem-Solving/tree/master/0049-group-anagrams) |
+| [0015-3sum](https://github.com/sejineer/Problem-Solving/tree/master/0015-3sum) |
 # Sorting
 |  |
 | ------- |
-| [0049-group-anagrams](https://github.com/sejineer/Problem-Solving/tree/master/0049-group-anagrams) |
+| [0015-3sum](https://github.com/sejineer/Problem-Solving/tree/master/0015-3sum) |
