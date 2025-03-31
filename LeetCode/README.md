@@ -2,19 +2,15 @@
 This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
 
 
-# String
+# Array
 |  |
 | ------- |
-| [0211-design-add-and-search-words-data-structure](https://github.com/sejineer/Problem-Solving/tree/master/0211-design-add-and-search-words-data-structure) |
-# Depth-First Search
+| [0217-contains-duplicate](https://github.com/sejineer/Problem-Solving/tree/master/0217-contains-duplicate) |
+# Hash Table
 |  |
 | ------- |
-| [0211-design-add-and-search-words-data-structure](https://github.com/sejineer/Problem-Solving/tree/master/0211-design-add-and-search-words-data-structure) |
-# Design
+| [0217-contains-duplicate](https://github.com/sejineer/Problem-Solving/tree/master/0217-contains-duplicate) |
+# Sorting
 |  |
 | ------- |
-| [0211-design-add-and-search-words-data-structure](https://github.com/sejineer/Problem-Solving/tree/master/0211-design-add-and-search-words-data-structure) |
-# Trie
-|  |
-| ------- |
-| [0211-design-add-and-search-words-data-structure](https://github.com/sejineer/Problem-Solving/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0217-contains-duplicate](https://github.com/sejineer/Problem-Solving/tree/master/0217-contains-duplicate) |
