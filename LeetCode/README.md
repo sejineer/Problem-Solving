@@ -5,12 +5,8 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 # Array
 |  |
 | ------- |
-| [0217-contains-duplicate](https://github.com/sejineer/Problem-Solving/tree/master/0217-contains-duplicate) |
+| [0001-two-sum](https://github.com/sejineer/Problem-Solving/tree/master/0001-two-sum) |
 # Hash Table
 |  |
 | ------- |
-| [0217-contains-duplicate](https://github.com/sejineer/Problem-Solving/tree/master/0217-contains-duplicate) |
-# Sorting
-|  |
-| ------- |
-| [0217-contains-duplicate](https://github.com/sejineer/Problem-Solving/tree/master/0217-contains-duplicate) |
+| [0001-two-sum](https://github.com/sejineer/Problem-Solving/tree/master/0001-two-sum) |
