@@ -2,11 +2,15 @@
 This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
 
 
-# Array
+# Hash Table
 |  |
 | ------- |
-| [0198-house-robber](https://github.com/sejineer/Problem-Solving/tree/master/0198-house-robber) |
-# Dynamic Programming
+| [0242-valid-anagram](https://github.com/sejineer/Problem-Solving/tree/master/0242-valid-anagram) |
+# String
 |  |
 | ------- |
-| [0198-house-robber](https://github.com/sejineer/Problem-Solving/tree/master/0198-house-robber) |
+| [0242-valid-anagram](https://github.com/sejineer/Problem-Solving/tree/master/0242-valid-anagram) |
+# Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/sejineer/Problem-Solving/tree/master/0242-valid-anagram) |
