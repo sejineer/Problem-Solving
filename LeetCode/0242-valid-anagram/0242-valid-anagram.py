@@ -2,12 +2,14 @@ from collections import Counter
 
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        counter_s = Counter(s)
-        counter_t = Counter(t)
-        if len(counter_s) != len(counter_t):
+        if len(s) != len(t):
             return False
-        for key, value in counter_s.items():
-            if counter_t[key] != value:
-                return False
-        return True
             
+        s_counter = Counter(s)
+        t_counter = Counter(t)
+
+        for num, freq in t_counter.items():
+            if s_counter[num] != freq:
+                return False
+        
+        return True
