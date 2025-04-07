@@ -2,15 +2,15 @@
 This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
 
 
-# Hash Table
+# Array
 |  |
 | ------- |
-| [0242-valid-anagram](https://github.com/sejineer/Problem-Solving/tree/master/0242-valid-anagram) |
-# String
+| [0015-3sum](https://github.com/sejineer/Problem-Solving/tree/master/0015-3sum) |
+# Two Pointers
 |  |
 | ------- |
-| [0242-valid-anagram](https://github.com/sejineer/Problem-Solving/tree/master/0242-valid-anagram) |
+| [0015-3sum](https://github.com/sejineer/Problem-Solving/tree/master/0015-3sum) |
 # Sorting
 |  |
 | ------- |
-| [0242-valid-anagram](https://github.com/sejineer/Problem-Solving/tree/master/0242-valid-anagram) |
+| [0015-3sum](https://github.com/sejineer/Problem-Solving/tree/master/0015-3sum) |
