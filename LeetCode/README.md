@@ -2,11 +2,19 @@
 This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
 
 
-# Array
+# Tree
 |  |
 | ------- |
-| [0238-product-of-array-except-self](https://github.com/sejineer/Problem-Solving/tree/master/0238-product-of-array-except-self) |
-# Prefix Sum
+| [0098-validate-binary-search-tree](https://github.com/sejineer/Problem-Solving/tree/master/0098-validate-binary-search-tree) |
+# Depth-First Search
 |  |
 | ------- |
-| [0238-product-of-array-except-self](https://github.com/sejineer/Problem-Solving/tree/master/0238-product-of-array-except-self) |
+| [0098-validate-binary-search-tree](https://github.com/sejineer/Problem-Solving/tree/master/0098-validate-binary-search-tree) |
+# Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/sejineer/Problem-Solving/tree/master/0098-validate-binary-search-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/sejineer/Problem-Solving/tree/master/0098-validate-binary-search-tree) |
