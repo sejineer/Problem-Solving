@@ -1,24 +1,15 @@
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
-        complement, count_zero = 1, 0
-        for i in nums:
-            if i == 0:
-                count_zero += 1
-            else:
-                complement *= i
+        prefix = [1] * len(nums)
+        for i in range(len(nums) - 1):
+            prefix[i + 1] = prefix[i] * nums[i]
+        
+        suffix = [1] * len(nums)
+        for i in range(len(nums) - 1, 0, -1):
+            suffix[i - 1] = suffix[i] * nums[i]
         
         result = []
-        for i in nums:
-            if i == 0:
-                if count_zero > 1:
-                    result.append(0)
-                else:
-                    result.append(complement)
-            else:
-                if count_zero > 0:
-                    result.append(0)
-                else:
-                    result.append(complement // i)
-        return result
-
+        for i, j in zip(prefix, suffix):
+            result.append(i * j)
         
+        return result
