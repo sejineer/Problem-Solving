@@ -2,19 +2,15 @@
 This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
 
 
-# Tree
+# Array
 |  |
 | ------- |
-| [0098-validate-binary-search-tree](https://github.com/sejineer/Problem-Solving/tree/master/0098-validate-binary-search-tree) |
-# Depth-First Search
+| [0053-maximum-subarray](https://github.com/sejineer/Problem-Solving/tree/master/0053-maximum-subarray) |
+# Divide and Conquer
 |  |
 | ------- |
-| [0098-validate-binary-search-tree](https://github.com/sejineer/Problem-Solving/tree/master/0098-validate-binary-search-tree) |
-# Binary Search Tree
+| [0053-maximum-subarray](https://github.com/sejineer/Problem-Solving/tree/master/0053-maximum-subarray) |
+# Dynamic Programming
 |  |
 | ------- |
-| [0098-validate-binary-search-tree](https://github.com/sejineer/Problem-Solving/tree/master/0098-validate-binary-search-tree) |
-# Binary Tree
-|  |
-| ------- |
-| [0098-validate-binary-search-tree](https://github.com/sejineer/Problem-Solving/tree/master/0098-validate-binary-search-tree) |
+| [0053-maximum-subarray](https://github.com/sejineer/Problem-Solving/tree/master/0053-maximum-subarray) |
