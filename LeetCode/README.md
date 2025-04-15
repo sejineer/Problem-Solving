@@ -2,15 +2,11 @@
 This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
 
 
-# Array
+# String
 |  |
 | ------- |
-| [0053-maximum-subarray](https://github.com/sejineer/Problem-Solving/tree/master/0053-maximum-subarray) |
-# Divide and Conquer
-|  |
-| ------- |
-| [0053-maximum-subarray](https://github.com/sejineer/Problem-Solving/tree/master/0053-maximum-subarray) |
+| [0091-decode-ways](https://github.com/sejineer/Problem-Solving/tree/master/0091-decode-ways) |
 # Dynamic Programming
 |  |
 | ------- |
-| [0053-maximum-subarray](https://github.com/sejineer/Problem-Solving/tree/master/0053-maximum-subarray) |
+| [0091-decode-ways](https://github.com/sejineer/Problem-Solving/tree/master/0091-decode-ways) |
