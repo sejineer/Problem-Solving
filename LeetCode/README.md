@@ -2,11 +2,11 @@
 This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
 
 
-# String
+# Array
 |  |
 | ------- |
-| [0091-decode-ways](https://github.com/sejineer/Problem-Solving/tree/master/0091-decode-ways) |
-# Dynamic Programming
+| [0039-combination-sum](https://github.com/sejineer/Problem-Solving/tree/master/0039-combination-sum) |
+# Backtracking
 |  |
 | ------- |
-| [0091-decode-ways](https://github.com/sejineer/Problem-Solving/tree/master/0091-decode-ways) |
+| [0039-combination-sum](https://github.com/sejineer/Problem-Solving/tree/master/0039-combination-sum) |
