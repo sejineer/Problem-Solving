@@ -5,8 +5,12 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 # Array
 |  |
 | ------- |
-| [0039-combination-sum](https://github.com/sejineer/Problem-Solving/tree/master/0039-combination-sum) |
-# Backtracking
+| [0322-coin-change](https://github.com/sejineer/Problem-Solving/tree/master/0322-coin-change) |
+# Dynamic Programming
 |  |
 | ------- |
-| [0039-combination-sum](https://github.com/sejineer/Problem-Solving/tree/master/0039-combination-sum) |
+| [0322-coin-change](https://github.com/sejineer/Problem-Solving/tree/master/0322-coin-change) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/sejineer/Problem-Solving/tree/master/0322-coin-change) |
