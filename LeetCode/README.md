@@ -5,12 +5,20 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 # Array
 |  |
 | ------- |
-| [0322-coin-change](https://github.com/sejineer/Problem-Solving/tree/master/0322-coin-change) |
-# Dynamic Programming
+| [0079-word-search](https://github.com/sejineer/Problem-Solving/tree/master/0079-word-search) |
+# String
 |  |
 | ------- |
-| [0322-coin-change](https://github.com/sejineer/Problem-Solving/tree/master/0322-coin-change) |
-# Breadth-First Search
+| [0079-word-search](https://github.com/sejineer/Problem-Solving/tree/master/0079-word-search) |
+# Backtracking
 |  |
 | ------- |
-| [0322-coin-change](https://github.com/sejineer/Problem-Solving/tree/master/0322-coin-change) |
+| [0079-word-search](https://github.com/sejineer/Problem-Solving/tree/master/0079-word-search) |
+# Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/sejineer/Problem-Solving/tree/master/0079-word-search) |
+# Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/sejineer/Problem-Solving/tree/master/0079-word-search) |
