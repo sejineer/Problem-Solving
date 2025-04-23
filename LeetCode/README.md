@@ -5,20 +5,8 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 # Array
 |  |
 | ------- |
-| [0079-word-search](https://github.com/sejineer/Problem-Solving/tree/master/0079-word-search) |
-# String
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sejineer/Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+# Binary Search
 |  |
 | ------- |
-| [0079-word-search](https://github.com/sejineer/Problem-Solving/tree/master/0079-word-search) |
-# Backtracking
-|  |
-| ------- |
-| [0079-word-search](https://github.com/sejineer/Problem-Solving/tree/master/0079-word-search) |
-# Depth-First Search
-|  |
-| ------- |
-| [0079-word-search](https://github.com/sejineer/Problem-Solving/tree/master/0079-word-search) |
-# Matrix
-|  |
-| ------- |
-| [0079-word-search](https://github.com/sejineer/Problem-Solving/tree/master/0079-word-search) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sejineer/Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
