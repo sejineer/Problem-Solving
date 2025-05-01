@@ -5,16 +5,24 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 # Array
 |  |
 | ------- |
-| [0049-group-anagrams](https://github.com/sejineer/Problem-Solving/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/sejineer/Problem-Solving/tree/master/0139-word-break) |
 # Hash Table
 |  |
 | ------- |
-| [0049-group-anagrams](https://github.com/sejineer/Problem-Solving/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/sejineer/Problem-Solving/tree/master/0139-word-break) |
 # String
 |  |
 | ------- |
-| [0049-group-anagrams](https://github.com/sejineer/Problem-Solving/tree/master/0049-group-anagrams) |
-# Sorting
+| [0139-word-break](https://github.com/sejineer/Problem-Solving/tree/master/0139-word-break) |
+# Dynamic Programming
 |  |
 | ------- |
-| [0049-group-anagrams](https://github.com/sejineer/Problem-Solving/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/sejineer/Problem-Solving/tree/master/0139-word-break) |
+# Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sejineer/Problem-Solving/tree/master/0139-word-break) |
+# Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sejineer/Problem-Solving/tree/master/0139-word-break) |
