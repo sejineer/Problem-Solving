@@ -2,27 +2,19 @@
 This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
 
 
-# Array
-|  |
-| ------- |
-| [0139-word-break](https://github.com/sejineer/Problem-Solving/tree/master/0139-word-break) |
 # Hash Table
 |  |
 | ------- |
-| [0139-word-break](https://github.com/sejineer/Problem-Solving/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/sejineer/Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
 # String
 |  |
 | ------- |
-| [0139-word-break](https://github.com/sejineer/Problem-Solving/tree/master/0139-word-break) |
-# Dynamic Programming
+| [0208-implement-trie-prefix-tree](https://github.com/sejineer/Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
+# Design
 |  |
 | ------- |
-| [0139-word-break](https://github.com/sejineer/Problem-Solving/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/sejineer/Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
 # Trie
 |  |
 | ------- |
-| [0139-word-break](https://github.com/sejineer/Problem-Solving/tree/master/0139-word-break) |
-# Memoization
-|  |
-| ------- |
-| [0139-word-break](https://github.com/sejineer/Problem-Solving/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/sejineer/Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
