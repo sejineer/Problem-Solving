@@ -1,7 +1,7 @@
 class Trie:
 
     def __init__(self):
-        self.root = {"$": True}
+        self.root = {"$": True}        
 
     def insert(self, word: str) -> None:
         node = self.root
@@ -10,6 +10,7 @@ class Trie:
                 node[ch] = {"$": False}
             node = node[ch]
         node["$"] = True
+
 
     def search(self, word: str) -> bool:
         node = self.root
@@ -27,7 +28,6 @@ class Trie:
             node = node[ch]
         return True
         
-
 # Your Trie object will be instantiated and called as such:
 # obj = Trie()
 # obj.insert(word)
