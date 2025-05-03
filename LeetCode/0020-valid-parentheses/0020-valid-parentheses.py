@@ -1,15 +1,19 @@
-from collections import deque
-
 class Solution:
     def isValid(self, s: str) -> bool:
-        stack = deque()
-        pairs = {')': '(', '}': '{', ']': '['}
-
+        pair = {'(': ')', '{': '}', '[': ']'}
+        stack = []
         for c in s:
-            if c in '[{(':
+            if c in ('(', '{', '['):
                 stack.append(c)
             else:
-                if not stack or stack.pop() != pairs[c]:
+                if stack:
+                    cur = stack.pop()
+                    if pair[cur] == c:
+                        continue
+                    else:
+                        return False
+                else:
                     return False
-        return not stack
-        
+        if stack:
+            return False
+        return True
