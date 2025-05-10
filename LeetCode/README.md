@@ -5,12 +5,12 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 # Array
 |  |
 | ------- |
-| [0054-spiral-matrix](https://github.com/sejineer/Problem-Solving/tree/master/0054-spiral-matrix) |
-# Matrix
+| [0300-longest-increasing-subsequence](https://github.com/sejineer/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
+# Binary Search
 |  |
 | ------- |
-| [0054-spiral-matrix](https://github.com/sejineer/Problem-Solving/tree/master/0054-spiral-matrix) |
-# Simulation
+| [0300-longest-increasing-subsequence](https://github.com/sejineer/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
+# Dynamic Programming
 |  |
 | ------- |
-| [0054-spiral-matrix](https://github.com/sejineer/Problem-Solving/tree/master/0054-spiral-matrix) |
+| [0300-longest-increasing-subsequence](https://github.com/sejineer/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
