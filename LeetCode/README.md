@@ -2,23 +2,11 @@
 This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
 
 
-# Array
+# Divide and Conquer
 |  |
 | ------- |
-| [0200-number-of-islands](https://github.com/sejineer/Problem-Solving/tree/master/0200-number-of-islands) |
-# Depth-First Search
+| [0190-reverse-bits](https://github.com/sejineer/Problem-Solving/tree/master/0190-reverse-bits) |
+# Bit Manipulation
 |  |
 | ------- |
-| [0200-number-of-islands](https://github.com/sejineer/Problem-Solving/tree/master/0200-number-of-islands) |
-# Breadth-First Search
-|  |
-| ------- |
-| [0200-number-of-islands](https://github.com/sejineer/Problem-Solving/tree/master/0200-number-of-islands) |
-# Union Find
-|  |
-| ------- |
-| [0200-number-of-islands](https://github.com/sejineer/Problem-Solving/tree/master/0200-number-of-islands) |
-# Matrix
-|  |
-| ------- |
-| [0200-number-of-islands](https://github.com/sejineer/Problem-Solving/tree/master/0200-number-of-islands) |
+| [0190-reverse-bits](https://github.com/sejineer/Problem-Solving/tree/master/0190-reverse-bits) |
